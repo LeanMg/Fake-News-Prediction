@@ -1,5 +1,6 @@
 # Fake-News-Prediction-using-RandomForest-
-This project implements a machine learning model to classify news articles as "Fake" or "Real" using the Random Forest algorithm. The dataset contains various labeled news articles with features like titles, authors, and full text, which are processed to predict whether the news is fake or real.
+This project implements a machine learning model to classify news articles as "Fake" or "Real" using the Random Forest algorithm. 
+The dataset contains various labeled news articles with features like titles, authors, and full text, which are processed to predict whether the news is fake or real.
 
 Features:
 Data Preprocessing: The raw news articles undergo cleaning, tokenization, and vectorization (using TF-IDF) to make the text data usable for model training.
